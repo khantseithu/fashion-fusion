@@ -1,4 +1,6 @@
-# Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
+# Fashion Fusion Storefront (Next.js 13, Tailwind, Prisma, MySQL, Clerk, Stripe)
+
+Deployed on Vercel: [https://fashion-fusion-storefront.vercel.app/](https://fashion-fusion-storefront.vercel.app/)
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 

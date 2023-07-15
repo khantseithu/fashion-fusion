@@ -1,6 +1,6 @@
-# Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
+# Fashion Fusion Admin Dashboard (Next.js 13, Tailwind, Prisma, MySQL, Clerk, Stripe)
 
-
+Deployed on Vercel: [https://fashion-fusion-khantseithu.vercel.app/](https://fashion-fusion-khantseithu.vercel.app/)
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
@@ -30,6 +30,7 @@ Key Features:
 ![ERDiagram](public/ERDiagram.png)
 
 ## Folder Structure
+
 ```bash
 .
 ├── LICENSE
